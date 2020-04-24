@@ -1,0 +1,25 @@
+{
+  "name": "git-test1",
+  "version": "1.0.0",
+  "description": "This is Git and Node basic project",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiPraneeth8790/git-test1.git"
+  },
+  "author": "Praneeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiPraneeth8790/git-test1/issues"
+  },
+  "homepage": "https://github.com/SaiPraneeth8790/git-test1#readme"
+}
